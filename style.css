@@ -1,0 +1,327 @@
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.photo{
+    display: flex;
+    /* flex-wrap: nowrap; */
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    /* height: 200px; */
+}
+.photo div{
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+}
+.photo div::-webkit-scrollbar{  width:0;}
+.photo div img{
+    margin-right: 20px;
+}
+.title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+.chennai{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    font-size: 40px;
+}
+
+
+.lo1{
+    border: 1px solid black;
+    width: 300px;
+    font-size: large;
+    height: max-content;
+}
+.lo2{
+    border: 1px solid black;
+    width: 300px;
+    font-size: large;
+    height: max-content;
+}
+.lo3{
+    border: 1px solid black;
+    width: 300px;
+    font-size: large;
+    height: max-content;
+}
+.lo4{
+    border: 1px solid black;
+    width: 300px;
+    font-size: large;
+    height: max-content;
+}
+.lo5{
+    border: 1px solid black;
+    width: 300px;
+    font-size: large;
+    height: max-content;
+}
+.lo6{
+    border: 1px solid black;
+    width: 300px;
+    font-size: large;
+    height: max-content;
+}
+.lo7{
+    border: 1px solid black;
+    width: 300px;
+    font-size: large;
+    height: max-content;
+
+
+}
+.lo8{
+    border: 1px solid black;
+    width: 300px;
+    font-size: large;
+    height: max-content;
+
+}
+.place{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.con1{
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+}
+.con2{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+}
+.plans{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: large; */
+
+}
+.plans{
+    background-color: lightslategray;
+}
+/* .plan1{
+    font-size: 50px;
+    border-style: double;
+    border: 1px solid black;
+    width: 500px;
+    height: 500px; */
+}
+/* .plan2{
+    font-size: 50px;
+    border-style: double;
+    border: 1px solid black;
+    width: 500px;
+    height: 500px; */
+}
+/* .plan3{
+    font-size: 50px;
+    border-style: double;
+    border: 1px solid black;
+    width: 500px;
+    height: 500px; */
+}
+.topic{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+
+}
+.detail{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    font-size: 30px;
+    
+}
+.p2{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    font-size: 40px;
+    
+}
+.phone{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    align-items: center;
+    font-size: 40px;
+    
+}
+.social{
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+}
+ .leo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+} 
+.po1{
+    font-size:30px;
+    color: antiquewhite;
+}
+.po2{
+    font-size:30px;
+    color: antiquewhite;
+}
+.po3{
+    font-size:30px;
+    color: antiquewhite;
+}
+.po4{
+    font-size:30px;
+    color: antiquewhite
+}
+.end{
+background-color:black ;
+}
+.tag1{
+    color: antiquewhite;
+}
+.tag2{
+    color: antiquewhite;
+}
+
+.tag3{
+    color: antiquewhite;
+}
+.tag4{
+    color: antiquewhite;
+}
+.po5{
+    font-size:30px;
+    color: antiquewhite
+}
+.tag5{
+    color: antiquewhite;
+}
+.end2{
+    background-color: black;
+}
+.tiger1{
+    color: antiquewhite;
+}
+.tiger1{
+    font-size: 20px;
+}
+.goat{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.head{
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-evenly; 
+}
+/* .fo1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+}
+.fo1::-webkit-scrollbar{  width:0;}
+.fo1 img{
+    margin-right: 40px;
+
+ */ */
+ .fo1{
+    display: ;
+ }
+ #th{
+    width: 90px;
+    height: 40px;
+ }
+ #th2{
+    width: 450px;
+    height: 90px;
+    border-radius: 100px;
+ }
+ #th3{
+    width: 450px;
+    height: 90px;
+    border-radius: 100px;
+ }
+ #th4{
+    width: 450px;
+    height: 90px;
+    border-radius: 100px;
+ }
+ .plan1{
+   display: flex;
+   flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+ } 
+ .plan2{
+    display: flex;
+    flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     font-size: 40px;
+  } 
+  .plan3{
+    display: flex;
+    flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     font-size: 40px;
+  } 
+.leo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.plan{
+    font-size: large;
+}
+.topic{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+}
+.m1{
+    width: 30px;
+}
+#loo{
+    width: 400px;
+    height: 30px;
+}
+.p2 button{
+    width: 100px;
+    height: 35px;
+}

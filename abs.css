@@ -1,0 +1,365 @@
+.no1{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    width: 100%;
+}
+.no1 img{
+    width: 150px;
+}
+.no2{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    width: 100%;
+}
+.no2 img{
+    width: 150px;
+}
+.sec1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.no3{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    width: 100%;
+}
+.no3 img{
+    width: 150px;
+}
+.no4{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    width: 100%;
+}
+.no4 img{
+    width: 150px;
+}
+.sec2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.no5{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    width: 100%;
+}
+.no5 img{
+    width: 150px;
+}
+.no6{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    width: 100%;
+}
+.no6 img{
+    width: 150px;
+}
+.sec3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.ex1{
+    font size: 20px
+    ;
+}
+.sec1{
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+}
+.sec1::-webkit-scrollbar{  width:0;}
+.sec1 img{
+    margin-right: 20px;
+}
+/* .overall{
+    display: flex;
+    flex-direction: column;
+    
+   
+}
+.overall::-webkit-scrollbar{  width:0;}
+.overall img{
+    margin-right: 100px;
+} */
+.sec2{
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+}
+.sec2::-webkit-scrollbar{  width:0;}
+.sec2 img{
+    margin-right: 20px;
+}
+.sec3{
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+}
+.sec3::-webkit-scrollbar{  width:0;}
+.sec3 img{
+    margin-right: 20px;
+}
+.ex2{
+    font size: 20px
+    ;
+}
+.ex3{
+    font size: 20px
+    ;
+}
+.ex4{
+    font size: 20px
+    ;
+}
+.ex5{
+    font size: 20px
+    ;
+}
+.ex6{
+    font size: 20px
+    ;
+}
+.topic{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+
+}
+.detail{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    font-size: 40px;
+    
+}
+.p2{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    font-size: 40px;
+    
+}
+.phone{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    align-items: center;
+    font-size: 40px;
+}
+/* .first{
+    background-color: darkgray;
+} */
+.leo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+} 
+.po1{
+    font-size:30px;
+    color: antiquewhite;
+}
+.po2{
+    font-size:30px;
+    color: antiquewhite;
+}
+.po3{
+    font-size:30px;
+    color: antiquewhite;
+}
+.po4{
+    font-size:30px;
+    color: antiquewhite
+}
+.end{
+background-color:black ;
+}
+.tag1{
+    color: antiquewhite;
+}
+.tag2{
+    color: antiquewhite;
+}
+
+.tag3{
+    color: antiquewhite;
+}
+.tag4{
+    color: antiquewhite;
+}
+.po5{
+    font-size:30px;
+    color: antiquewhite
+}
+.tag5{
+    color: antiquewhite;
+}
+.end2{
+    background-color: black;
+}
+.tiger1{
+    color: antiquewhite;
+}
+.tiger1{
+    font-size: 20px;
+}
+.goat{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+/* .all{
+    background-image: url(/run.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover; */
+   
+}
+.intro{
+    display: flex;
+    flex-direction: roe;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.studio{
+    font-size: larger;
+}
+.a1{
+    font-size: 30px;
+
+}
+.a2{
+    font-size: 18px;
+}
+.a3{
+    font-size: 30px;
+
+}
+.a4{
+    font-size: 18px;
+}
+.a5{
+    font-size: 30px;
+
+}
+.a6{
+    font-size: 18px;
+}
+.a7{
+    font-size: 30px;
+
+}
+.a8{
+
+    font-size: 18px;
+}
+.a9{
+    font-size: 30px;
+
+}
+.a10{
+    font-size: 18px;
+}
+.a11{
+    font-size: 30px;
+}
+.a12{
+    font-size: 18px;
+}
+/* .all{
+    background-image: url(mit.jpg);
+    background-size: cover;
+
+} */
+.he{
+    /* font-size: 20px; */
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: center; 
+}
+.he{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-between;
+
+}
+.all{
+    background-image: url(1.webp);
+    background-size: cover;
+}
+.m1{
+    width: 50%;
+}.fa-snapchat-ghost {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+  
+  .fa-skype {
+    background: #00aff0;
+    color: white;
+  }
+  
+  .fa-android {
+    background: #a4c639;
+    color: white;
+  }
+  
+  .fa-dribbble {
+    background: #ea4c89;
+    color: white;
+  }
+  #loo{
+    width: 400px;
+    height: 30px;
+}
+.p2 button{
+    width: 100px;
+    height: 40px;
+}
+.fo1{
+    font-size: larger;
+}
+.f1{
+    font-size: larger;
+}
+.f2{
+    font-size: larger;
+}
+.f3{
+    font-size: larger;
+}
+.he button{
+    width: 100px;
+    height: 40px;
+
+}
+a {
+    text-decoration: none;
+    color: black;
+}
